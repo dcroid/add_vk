@@ -12,4 +12,4 @@
         tm += time_limit;
     }
 });"
-4 Нажимаем Enter
+4. Нажимаем Enter
